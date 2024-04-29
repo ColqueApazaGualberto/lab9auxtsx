@@ -10,3 +10,4 @@ Currently, two official plugins are available:
 ## Install & Run
 - yarn 
 - yarn dev
+#Si se trabaja con archivos .tsx, se utiliza TypeScript con JSX. En este caso, el código se verá casi idéntico al código en JavaScript, pero con la diferencia de que se nesecita especificar los tipos de datos para garantizar la integridad y seguridad del código.
