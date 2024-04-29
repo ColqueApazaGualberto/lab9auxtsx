@@ -12,3 +12,5 @@ Currently, two official plugins are available:
 - yarn dev
 #Si se trabaja con archivos .tsx, se utiliza TypeScript con JSX. En este caso, el código se verá casi idéntico al código en JavaScript, pero con la diferencia de que se nesecita especificar los tipos de datos para garantizar la integridad y seguridad del código.
 # lab9aux Si se trabaja con archivos .tsx, estás utilizando TypeScript con JSX. En este caso, el código se verá casi idéntico al código en JavaScript, pero con la diferencia de que se necesita especificar los tipos de datos para garantizar la integridad y seguridad del código.
+# Si se trabaja con archivos .tsx, se utiliza TypeScript con JSX. En este caso, el código se verá casi idéntico al código en JavaScript, pero con la diferencia de que se necesita especificar los tipos de datos para garantizar la integridad y seguridad del código.
+# Si se trabaja con archivos .tsx, se utiliza TypeScript con JSX. En este caso, el código se verá casi idéntico al código en JavaScript, pero con la diferencia de que se debe especificar los tipos de datos para garantizar la integridad y seguridad del código.
